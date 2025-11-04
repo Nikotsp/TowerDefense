@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 731056857
+    locked: 0
+  - name: Road
+    uniqueID: 980885145
+    locked: 0
+  - name: Luobo
+    uniqueID: 3073632245
+    locked: 0
+  - name: Monster
+    uniqueID: 2541556119
+    locked: 0
+  - name: Tower
+    uniqueID: 3114042291
+    locked: 0
+  - name: Bullet
+    uniqueID: 2554247691
+    locked: 0
+  - name: Effect
+    uniqueID: 3950202101
+    locked: 0
+  - name: Interaction
+    uniqueID: 703284151
+    locked: 0

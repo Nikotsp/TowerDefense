@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+class UpgradeTowerCommand : Controller
+{
+    public override void Execute(object data)
+    {
+        UpgradeTowerArgs upgradeTowerArgs = data as UpgradeTowerArgs;
+        Tower tower = upgradeTowerArgs.tower;
+        tower.Level += 1;
+    }
+}
